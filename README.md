@@ -1,2 +1,3 @@
 # HPP
 House price prediction is a classic regression problem in data science. In this task, you use historical data on houses (features such as number of bedrooms, location, square footage, etc.) to build a model that can predict the price of a house. In Java, you can use machine learning libraries like Weka or build your own regression model.
+In a real-world scenario, you would typically perform more advanced data preprocessing, feature engineering, and use a larger dataset. Additionally, you might consider other regression algorithms, hyperparameter tuning, and cross-validation to build a more robust model. If you have labeled data (historical house prices), you can split it into a training set and a test set to evaluate the model's performance.
